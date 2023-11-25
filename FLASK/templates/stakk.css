@@ -1,0 +1,173 @@
+.centered{
+    text-align: center;
+    color:black;
+}
+.background{
+    background-color:#d1d2f9;
+}
+.logo{
+    margin-left:auto;
+    margin-right: auto;
+    display: block;
+}
+.checker{
+    background-color: red;
+}
+.Heading{
+    background-color:#d1e6f9;
+    border-radius: 20px;
+    border-style: inset;
+    border-color:#576490;
+    border-width: 20px;
+    padding:20px;
+    margin-bottom: 30px;
+    width:90%;
+    margin:auto;
+}
+.footer{
+    width:20%;
+    height:20px;
+    position: relative;
+    bottom: 0;
+    right: 0;
+    background-color:#3498db;
+}
+.scroll{
+    width: 33%;
+    height: 75%;
+    resize:auto;
+}
+.profile-picture {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.student {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    padding-left: 20px;
+}
+.more-info-button {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+ul{
+    list-style-type: none;
+}
+    
+.vertical-line {
+    border-right: 4px solid #576490;
+    height:auto;
+    margin-left:20px;
+    margin-right:20px;
+    margin-top: 30px;
+}
+.flexcontainer{
+    display: flex;
+}
+.flexcontainer{
+    display: flex;
+}
+p{
+    font-family: helvetica;
+}
+
+h1{
+    font-family: helvetica;
+}
+
+.popup1{
+    display:none;
+    float:right;
+    height:auto;
+    width:66%;
+}
+.popup2{
+    display:none;
+    float:right;
+    height:auto;
+    width:66%;
+}
+.popup3{
+    display:none;
+    float:right;
+    height:auto;
+    width:66%;
+}
+.popup4{
+    display:none;
+    float:right;
+    height:auto;
+    width:66%;
+}
+.popup5{
+    display:none;
+    float:right;
+    height:auto;
+    width:66%;
+}
+.popup6{
+    display:none;
+    float:right;
+    height:auto;
+    width:66%;
+}
+.popup7{
+    display:none;
+    float:right;
+    height:auto;
+    width:66%;
+}
+.popup8{
+    display:none;
+    float:right;
+    height:auto;
+    width:66%;
+}
+.popup9{
+    display:none;
+    float:right;
+    height:auto;
+    width:66%;
+}
+.popup10{
+    display:none;
+    float:right;
+    height:auto;
+    width:66%;
+}
+.popup11{
+    display:none;
+    float:right;
+    height:auto;
+    width:66%;
+}
+
+.form{
+    padding-left:40px;
+    padding-top:20px;
+}
+input{
+    margin: 2px;
+    padding: 5px;
+}
+.profileDescription{
+    position:relative;
+    margin-right:5px;
+    margin-left:5px;
+}
+.profilePicture{
+    width:50%; 
+    float:left; 
+    margin-right:10px; 
+    border-radius:20%;
+}
