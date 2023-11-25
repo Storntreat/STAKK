@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>STAKK</title>
     <link rel="stylesheet" type="text/css" href="stakk.css" />
-    <script src="profiles.js"></script>
     <link rel="icon" href="images/NRGlogo.png" type="image/icon" />
   </head>
 
